@@ -6,12 +6,58 @@ st.set_page_config(page_title="Sales Intelligence AI", page_icon="📊", layout=
 
 st.markdown("""
 <style>
-.stApp {background:#F8F7FC;color:#292638}
-.block-container {max-width:1150px;padding-top:2rem}
-.stApp h1,.stApp h2,.stApp h3 {color:#454276}
-[data-testid="stSidebar"] {background:#EFEDFA}
-.stButton>button {background:#7775C8;color:white;border-radius:10px}
-div[data-testid="stMetric"] {background:white;border:1px solid #E7E3F5;padding:16px;border-radius:14px}
+
+.stApp {
+    background: #F8F7FC;
+    color: #292638;
+}
+
+.stApp p,
+.stApp label,
+.stApp span,
+.stApp li,
+.stMarkdown,
+[data-testid="stText"],
+[data-testid="stCaptionContainer"] {
+    color: #292638;
+}
+
+.stApp h1, .stApp h2, .stApp h3 {
+    color: #454276;
+}
+
+[data-testid="stSidebar"] {
+    background: #EFEDFA;
+}
+
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] span {
+    color: #292638;
+}
+
+.stTextInput input {
+    color: #292638 !important;
+    background: #FFFFFF !important;
+}
+
+.stButton > button {
+    background: #7775C8;
+    color: #FFFFFF !important;
+    border-radius: 10px;
+}
+
+div[data-testid="stMetric"] {
+    background: #FFFFFF;
+    border: 1px solid #E7E3F5;
+    padding: 16px;
+    border-radius: 14px;
+}
+
+div[data-testid="stMetric"] label,
+div[data-testid="stMetric"] [data-testid="stMetricValue"] {
+    color: #292638 !important;
+}
+
 </style>
 """, unsafe_allow_html=True)
 
