@@ -61,16 +61,57 @@ div[data-testid="stMetric"] [data-testid="stMetricValue"] {
 </style>
 """, unsafe_allow_html=True)
 
+
 @st.cache_data
 def load_data():
-    df = pd.read_csv("sales_dataset.csv")
-    df.columns = [str(c).strip() for c in df.columns]
+    files = [
+        "sales_dataset.csv",
+        "sales_October_data.csv"
+    ]
+
+    dataframes = []
+
+    for file in files:
+        try:
+            current_df = pd.read_csv(file)
+            current_df.columns = [
+                str(c).strip() for c in current_df.columns
+            ]
+            dataframes.append(current_df)
+        except FileNotFoundError:
+            if file == "sales_dataset.csv":
+                raise
+
+    if not dataframes:
+        return pd.DataFrame()
+
+    df = pd.concat(dataframes, ignore_index=True)
+
+    # Remove duplicate orders if the same records exist in both files
+    if "Order_ID" in df.columns:
+        df = df.drop_duplicates(
+            subset=["Order_ID"],
+            keep="first"
+        )
+
     if "Order_Date" in df.columns:
-        df["Order_Date"] = pd.to_datetime(df["Order_Date"], errors="coerce")
-    for c in ["Sales","Cost","Profit","Quantity","Discount","Unit_Price"]:
+        df["Order_Date"] = pd.to_datetime(
+            df["Order_Date"], errors="coerce"
+        )
+
+    for c in [
+        "Sales", "Cost", "Profit",
+        "Quantity", "Discount", "Unit_Price"
+    ]:
         if c in df.columns:
-            df[c] = pd.to_numeric(df[c], errors="coerce")
+            df[c] = pd.to_numeric(
+                df[c].astype(str).str.replace(",", "", regex=False)
+                .str.replace("%", "", regex=False),
+                errors="coerce"
+            )
+
     return df
+
 
 def answer_question(question, df):
     q = re.sub(r"[^a-z0-9\s]", " ", question.lower())
