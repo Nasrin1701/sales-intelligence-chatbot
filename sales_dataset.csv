@@ -1199,3 +1199,103 @@ ORD00116,2025-12-28,North,Chandigarh,Online,Small Business,Furniture,Desk,8,365.
 ORD00363,2025-12-28,Central,Nagpur,Online,Consumer,Technology,Laptop,8,993.17,0.15,6753.56,5400.97,1352.59
 ORD01138,2025-12-29,North,Delhi,Online,Corporate,Office Supplies,Stapler,2,13.69,0.2,21.9,15.46,6.44
 ORD00609,2025-12-30,Central,Indore,Retail,Small Business,Office Supplies,Storage Box,8,9.94,0.2,63.62,54.81,8.81
+ORD1001,2026-10-01,South,Chennai,Online,Consumer,Electronics,Headphones,2,1500,10%,2700,1800,900
+ORD1002,2026-10-01,South,Madurai,Retail,Corporate,Furniture,Office Chair,3,4500,5%,12825,9000,3825
+ORD1003,2026-10-02,West,Mumbai,Online,Consumer,Electronics,Mouse,5,500,0%,2500,1500,1000
+ORD1004,2026-10-02,North,Delhi,Distributor,Small Business,Office Supplies,Notebook,20,80,10%,1440,1000,440
+ORD1005,2026-10-03,South,Coimbatore,Retail,Consumer,Electronics,Keyboard,4,900,5%,3420,2400,1020
+ORD1006,2026-10-03,East,Kolkata,Online,Corporate,Furniture,Desk,2,7000,10%,12600,9000,3600
+ORD1007,2026-10-04,West,Pune,Retail,Small Business,Office Supplies,Printer Paper,15,250,0%,3750,2700,1050
+ORD1008,2026-10-04,South,Tirunelveli,Online,Consumer,Electronics,USB Cable,10,200,5%,1900,1000,900
+ORD1009,2026-10-05,North,Jaipur,Distributor,Corporate,Furniture,Bookshelf,2,5500,10%,9900,7000,2900
+ORD1010,2026-10-05,East,Bhubaneswar,Retail,Consumer,Office Supplies,Pen Set,12,150,0%,1800,900,900
+ORD1011,2026-10-06,South,Chennai,Online,Small Business,Electronics,Monitor,2,12000,5%,22800,18000,4800
+ORD1012,2026-10-06,West,Ahmedabad,Retail,Consumer,Furniture,Table,1,8000,10%,7200,5500,1700
+ORD1013,2026-10-07,North,Delhi,Online,Corporate,Electronics,Webcam,3,2500,0%,7500,5100,2400
+ORD1014,2026-10-07,South,Tenkasi,Retail,Consumer,Office Supplies,Stapler,8,120,5%,912,480,432
+ORD1015,2026-10-08,East,Kolkata,Distributor,Small Business,Electronics,Headphones,4,1500,10%,5400,3600,1800
+ORD1016,2026-10-08,West,Mumbai,Online,Corporate,Furniture,Office Chair,5,4500,5%,21375,15000,6375
+ORD1017,2026-10-09,South,Madurai,Retail,Consumer,Office Supplies,Notebook,25,80,0%,2000,1250,750
+ORD1018,2026-10-09,North,Jaipur,Online,Small Business,Electronics,Mouse,6,500,10%,2700,1800,900
+ORD1019,2026-10-10,South,Coimbatore,Distributor,Corporate,Furniture,Desk,3,7000,5%,19950,13500,6450
+ORD1020,2026-10-10,West,Pune,Retail,Consumer,Office Supplies,Printer Paper,10,250,10%,2250,1800,450
+ORD1021,2026-10-11,East,Bhubaneswar,Online,Consumer,Electronics,Keyboard,5,900,0%,4500,3000,1500
+ORD1022,2026-10-11,South,Chennai,Retail,Small Business,Furniture,Bookshelf,1,5500,5%,5225,3500,1725
+ORD1023,2026-10-12,North,Delhi,Online,Corporate,Electronics,Monitor,1,12000,10%,10800,9000,1800
+ORD1024,2026-10-12,West,Ahmedabad,Distributor,Consumer,Office Supplies,Pen Set,20,150,5%,2850,1500,1350
+ORD1025,2026-10-13,South,Tirunelveli,Retail,Corporate,Electronics,Webcam,2,2500,10%,4500,3400,1100
+ORD1026,2026-10-13,East,Kolkata,Online,Small Business,Furniture,Table,2,8000,0%,16000,11000,5000
+ORD1027,2026-10-14,South,Tenkasi,Online,Consumer,Office Supplies,Stapler,10,120,0%,1200,600,600
+ORD1028,2026-10-14,West,Mumbai,Retail,Corporate,Electronics,USB Cable,15,200,10%,2700,1500,1200
+ORD1029,2026-10-15,North,Jaipur,Distributor,Small Business,Furniture,Office Chair,4,4500,10%,16200,12000,4200
+ORD1030,2026-10-15,South,Madurai,Online,Consumer,Electronics,Headphones,3,1500,5%,4275,2700,1575
+ORD1031,2026-10-16,West,Pune,Retail,Corporate,Office Supplies,Notebook,30,80,5%,2280,1500,780
+ORD1032,2026-10-16,South,Chennai,Online,Small Business,Electronics,Monitor,2,12000,0%,24000,18000,6000
+ORD1033,2026-10-17,East,Bhubaneswar,Retail,Consumer,Furniture,Desk,1,7000,10%,6300,4500,1800
+ORD1034,2026-10-17,North,Delhi,Online,Corporate,Electronics,Mouse,10,500,5%,4750,3000,1750
+ORD1035,2026-10-18,South,Coimbatore,Distributor,Small Business,Office Supplies,Printer Paper,20,250,5%,4750,3600,1150
+ORD1036,2026-10-18,West,Ahmedabad,Online,Consumer,Furniture,Bookshelf,2,5500,0%,11000,7000,4000
+ORD1037,2026-10-19,South,Tirunelveli,Retail,Corporate,Electronics,Keyboard,6,900,10%,4860,3600,1260
+ORD1038,2026-10-19,East,Kolkata,Online,Consumer,Office Supplies,Pen Set,15,150,10%,2025,1125,900
+ORD1039,2026-10-20,North,Jaipur,Retail,Small Business,Electronics,Webcam,4,2500,5%,9500,6800,2700
+ORD1040,2026-10-20,South,Tenkasi,Online,Corporate,Furniture,Table,2,8000,5%,15200,11000,4200
+ORD1041,2026-10-21,West,Mumbai,Distributor,Consumer,Electronics,USB Cable,20,200,0%,4000,2000,2000
+ORD1042,2026-10-21,South,Chennai,Retail,Small Business,Office Supplies,Stapler,12,120,10%,1296,720,576
+ORD1043,2026-10-22,East,Bhubaneswar,Online,Corporate,Electronics,Monitor,3,12000,5%,34200,27000,7200
+ORD1044,2026-10-22,North,Delhi,Retail,Consumer,Furniture,Office Chair,2,4500,0%,9000,6000,3000
+ORD1045,2026-10-23,South,Madurai,Online,Small Business,Electronics,Headphones,5,1500,15%,6375,4500,1875
+ORD1046,2026-10-23,West,Pune,Retail,Corporate,Office Supplies,Notebook,40,80,10%,2880,2000,880
+ORD1047,2026-10-24,South,Coimbatore,Distributor,Consumer,Furniture,Desk,2,7000,10%,12600,9000,3600
+ORD1048,2026-10-24,East,Kolkata,Online,Small Business,Electronics,Mouse,8,500,0%,4000,2400,1600
+ORD1049,2026-10-25,North,Jaipur,Retail,Corporate,Office Supplies,Printer Paper,12,250,5%,2850,2160,690
+ORD1050,2026-10-25,South,Tenkasi,Online,Consumer,Electronics,Keyboard,3,900,5%,2565,1800,765
+ORD1051,2026-10-26,South,Chennai,Online,Consumer,Electronics,Monitor,1,12000,5%,11400,9000,2400
+ORD1052,2026-10-26,West,Mumbai,Retail,Corporate,Furniture,Office Chair,4,4500,10%,16200,12000,4200
+ORD1053,2026-10-26,North,Delhi,Distributor,Small Business,Office Supplies,Notebook,50,80,5%,3800,2500,1300
+ORD1054,2026-10-26,South,Madurai,Online,Consumer,Electronics,Mouse,7,500,0%,3500,2100,1400
+ORD1055,2026-10-27,East,Kolkata,Retail,Corporate,Furniture,Desk,2,7000,5%,13300,9000,4300
+ORD1056,2026-10-27,South,Coimbatore,Online,Small Business,Electronics,Keyboard,8,900,10%,6480,4800,1680
+ORD1057,2026-10-27,West,Pune,Distributor,Consumer,Office Supplies,Printer Paper,25,250,10%,5625,4500,1125
+ORD1058,2026-10-27,South,Tirunelveli,Retail,Corporate,Electronics,Webcam,3,2500,5%,7125,5100,2025
+ORD1059,2026-10-27,North,Jaipur,Online,Consumer,Furniture,Bookshelf,3,5500,10%,14850,10500,4350
+ORD1060,2026-10-27,East,Bhubaneswar,Retail,Small Business,Office Supplies,Pen Set,18,150,0%,2700,1350,1350
+ORD1061,2026-10-28,South,Tenkasi,Online,Corporate,Electronics,Headphones,6,1500,5%,8550,5400,3150
+ORD1062,2026-10-28,West,Ahmedabad,Retail,Consumer,Furniture,Table,2,8000,10%,14400,11000,3400
+ORD1063,2026-10-28,North,Delhi,Online,Small Business,Electronics,USB Cable,25,200,5%,4750,2500,2250
+ORD1064,2026-10-28,South,Chennai,Distributor,Corporate,Furniture,Office Chair,6,4500,5%,25650,18000,7650
+ORD1065,2026-10-28,East,Kolkata,Online,Consumer,Office Supplies,Stapler,15,120,10%,1620,900,720
+ORD1066,2026-10-28,South,Madurai,Retail,Small Business,Electronics,Monitor,2,12000,10%,21600,18000,3600
+ORD1067,2026-10-29,West,Mumbai,Online,Corporate,Electronics,Mouse,12,500,5%,5700,3600,2100
+ORD1068,2026-10-29,South,Coimbatore,Retail,Consumer,Furniture,Desk,3,7000,0%,21000,13500,7500
+ORD1069,2026-10-29,North,Jaipur,Distributor,Small Business,Office Supplies,Notebook,35,80,10%,2520,1750,770
+ORD1070,2026-10-29,South,Tirunelveli,Online,Corporate,Electronics,Keyboard,10,900,5%,8550,6000,2550
+ORD1071,2026-10-29,East,Bhubaneswar,Retail,Consumer,Furniture,Bookshelf,2,5500,5%,10450,7000,3450
+ORD1072,2026-10-29,West,Pune,Online,Small Business,Electronics,Webcam,5,2500,10%,11250,8500,2750
+ORD1073,2026-10-29,South,Tenkasi,Retail,Consumer,Office Supplies,Printer Paper,18,250,0%,4500,3240,1260
+ORD1074,2026-10-29,North,Delhi,Online,Corporate,Furniture,Table,1,8000,5%,7600,5500,2100
+ORD1075,2026-10-30,South,Chennai,Distributor,Small Business,Electronics,Headphones,8,1500,10%,10800,7200,3600
+ORD1076,2026-10-30,West,Ahmedabad,Retail,Consumer,Office Supplies,Pen Set,25,150,5%,3562.5,1875,1687.5
+ORD1077,2026-10-30,East,Kolkata,Online,Corporate,Electronics,Monitor,3,12000,10%,32400,27000,5400
+ORD1078,2026-10-30,South,Madurai,Retail,Consumer,Furniture,Office Chair,2,4500,5%,8550,6000,2550
+ORD1079,2026-10-30,North,Jaipur,Online,Small Business,Electronics,USB Cable,30,200,10%,5400,3000,2400
+ORD1080,2026-10-30,South,Coimbatore,Distributor,Corporate,Office Supplies,Notebook,45,80,5%,3420,2250,1170
+ORD1081,2026-10-30,West,Mumbai,Online,Consumer,Furniture,Desk,2,7000,10%,12600,9000,3600
+ORD1082,2026-10-30,South,Tirunelveli,Retail,Small Business,Electronics,Keyboard,7,900,0%,6300,4200,2100
+ORD1083,2026-10-30,East,Bhubaneswar,Online,Corporate,Office Supplies,Stapler,20,120,5%,2280,1200,1080
+ORD1084,2026-10-30,South,Tenkasi,Retail,Consumer,Electronics,Mouse,9,500,10%,4050,2700,1350
+ORD1085,2026-10-30,North,Delhi,Distributor,Corporate,Furniture,Bookshelf,4,5500,5%,20900,14000,6900
+ORD1086,2026-10-31,South,Chennai,Online,Small Business,Electronics,Webcam,6,2500,5%,14250,10200,4050
+ORD1087,2026-10-31,West,Pune,Retail,Consumer,Office Supplies,Printer Paper,30,250,10%,6750,5400,1350
+ORD1088,2026-10-31,East,Kolkata,Online,Corporate,Furniture,Table,3,8000,5%,22800,16500,6300
+ORD1089,2026-10-31,South,Madurai,Distributor,Consumer,Electronics,Headphones,4,1500,0%,6000,3600,2400
+ORD1090,2026-10-31,North,Jaipur,Retail,Small Business,Office Supplies,Pen Set,30,150,10%,4050,2250,1800
+ORD1091,2026-10-31,South,Coimbatore,Online,Corporate,Electronics,Monitor,2,12000,5%,22800,18000,4800
+ORD1092,2026-10-31,West,Ahmedabad,Retail,Consumer,Furniture,Office Chair,3,4500,0%,13500,9000,4500
+ORD1093,2026-10-31,South,Tirunelveli,Online,Small Business,Electronics,USB Cable,20,200,5%,3800,2000,1800
+ORD1094,2026-10-31,East,Bhubaneswar,Distributor,Corporate,Furniture,Desk,2,7000,10%,12600,9000,3600
+ORD1095,2026-10-31,South,Tenkasi,Retail,Consumer,Office Supplies,Notebook,40,80,5%,3040,2000,1040
+ORD1096,2026-10-31,West,Mumbai,Online,Small Business,Electronics,Keyboard,9,900,10%,7290,5400,1890
+ORD1097,2026-10-31,North,Delhi,Retail,Corporate,Electronics,Webcam,4,2500,0%,10000,6800,3200
+ORD1098,2026-10-31,South,Chennai,Distributor,Consumer,Furniture,Bookshelf,3,5500,10%,14850,10500,4350
+ORD1099,2026-10-31,East,Kolkata,Online,Small Business,Office Supplies,Stapler,25,120,5%,2850,1500,1350
+ORD1100,2026-10-31,South,Madurai,Retail,Corporate,Electronics,Headphones,5,1500,10%,6750,4500,2250
